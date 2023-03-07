@@ -1,5 +1,5 @@
 {
-    "name": "enoliu/hyperf-jwt",
+    "name": "enoliu/jwt",
     "type": "library",
     "license": "MIT",
     "keywords": [
